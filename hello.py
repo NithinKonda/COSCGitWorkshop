@@ -1,1 +1,1 @@
-print("HELLO COSC")
+print("TPO LAB 1")
